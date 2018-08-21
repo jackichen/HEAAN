@@ -6,7 +6,7 @@
 * work.  If not, see <http://creativecommons.org/licenses/by-nc/3.0/>.
 */
 
-#include "../src/HEAAN.h"
+#include "HEAAN.h"
 
 using namespace std;
 using namespace NTL;
